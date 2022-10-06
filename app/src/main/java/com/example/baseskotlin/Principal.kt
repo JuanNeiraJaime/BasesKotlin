@@ -11,4 +11,9 @@ fun newTopic(topic: String){
 
     //declaracion de variable
     var b = 14
+
+    println("El valor de la constante a es de: $a")
+    println("El valor de la constante b es de: $b")
+
+
 }
